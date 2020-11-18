@@ -1,0 +1,18 @@
+{
+  "name": "do-zero-ao-graphql-em-30-minutos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alanjhonnes/zero-graphql-30.git",
+  "author": "Alan Jhonnes <alanjhonnes@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "ts-node-dev index.ts"
+  },
+  "dependencies": {
+    "dataloader": "^2.0.0",
+    "fastify": "^3.8.0",
+    "mercurius": "^6.4.0",
+    "ts-node-dev": "^1.0.0",
+    "typescript": "^4.0.5"
+  }
+}
